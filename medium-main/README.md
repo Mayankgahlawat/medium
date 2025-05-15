@@ -28,7 +28,7 @@ A feature-rich blogging platform inspired by Medium, built with cutting-edge web
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/KrishSharma007/medium.git
+   git clone https://github.com/Mayankgahlawat/medium.git
    cd medium
    ```
 
